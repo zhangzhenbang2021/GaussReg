@@ -65,3 +65,17 @@ We extend **GaussReg** to large-resolution ssEM datasets and integrate it with a
 Please refer to our latest work for more details:
 
 - **vEMRec**: https://github.com/zhangzhenbang2021/vEMRec
+
+
+# Citation
+```
+@inproceedings{zhang2025gaussian,
+  title={A Gaussian Filter-Based 3D Registration Method for Series Section Electron Microscopy},
+  author={Zhang, Zhenbang and Li, Hongjia and Xu, Zhiqiang and Meng, Wenjia and Han, Renmin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={1},
+  pages={1156--1164},
+  year={2025}
+}
+```
